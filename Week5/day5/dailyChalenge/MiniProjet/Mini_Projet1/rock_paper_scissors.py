@@ -1,9 +1,4 @@
 from game import Game
-# jeu = Game()
-# jeu.play()
-
-# Partie II - Pierre-Papier-Ciseaux.Py
-
 def get_user_menu_choice():
     choix = input("Pour Jouer une nouvelle partie entrez 1\nPour Afficher les scores entrez 2\nPour Quitter tapez 'x' ou 'q': ")
     return choix
